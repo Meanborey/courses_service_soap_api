@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                          xmlns="https://www.agnasarp.com/courses"
+                          xsi:schemaLocation="https://www.agnasarp.com/courses course-details.xsd">
+    <CourseDetails>
+        <id>123</id>
+        <name>SOAP Web Services</name>
+        <description>SOAP Web Services with Spring Boot</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>
